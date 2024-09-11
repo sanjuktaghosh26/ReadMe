@@ -17,7 +17,7 @@ Before you start, make sure you have:
 
 1. **Clone the Repository**: Download the project files to your computer.
    
-- Use the command: git clone https://github.com/yourusername/your-repo-name.git
+- Use the command: git clone https://github.com/sanjuktaghosh26/ReadMe.git
 - Navigate to the project directory.
 - Open the Project: Use an IDE like IntelliJ IDEA or Eclipse.
 
